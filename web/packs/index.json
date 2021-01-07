@@ -1,7 +1,6 @@
 {
   "packs": [
-    "ragefaces.json",
-    "scalar-geeko.json"
+    "ragefaces.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
